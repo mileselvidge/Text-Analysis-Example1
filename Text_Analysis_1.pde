@@ -1,4 +1,5 @@
 // Text Analysis 1
+// By Miles Elvidge
 
 IntDict words;
 String current;
